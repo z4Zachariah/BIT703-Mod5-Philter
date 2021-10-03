@@ -1,0 +1,13 @@
+1633285289a:1:{s:11:"footer.html";a:5:{s:8:"fileName";s:11:"footer.html";s:7:"content";s:220:"<div class="container-fluid">
+    <div class="row justify-content-between">
+        <div class="col">
+            <p>© {{ "now"|date("Y") }} Jonathan Smith. All rights reserved</p>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1631911400;s:6:"markup";s:220:"<div class="container-fluid">
+    <div class="row justify-content-between">
+        <div class="col">
+            <p>© {{ "now"|date("Y") }} Jonathan Smith. All rights reserved</p>
+        </div>
+    </div>
+</div>";s:4:"code";N;}}

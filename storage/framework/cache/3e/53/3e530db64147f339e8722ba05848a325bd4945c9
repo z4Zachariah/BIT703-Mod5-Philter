@@ -1,0 +1,32 @@
+1633285287a:1:{s:18:"reset-password.htm";a:9:{s:8:"fileName";s:18:"reset-password.htm";s:7:"content";s:460:"title = "Reset Password"
+url = "/reset-password/:code?"
+layout = "default"
+ 
+[resetPassword]
+paramCode = "code"
+==
+<div id="main">
+    <div class="container">
+        <div class="row">
+            <div class="text-center">
+                <h2>Password Reset</h2>
+            </div>
+        </div>
+        <div class="row">
+            {{ message }}
+        </div>
+        {% component 'resetPassword' %}
+    </div><!-- /.container -->
+</div>";s:5:"mtime";i:1632253220;s:6:"markup";s:338:"<div id="main">
+    <div class="container">
+        <div class="row">
+            <div class="text-center">
+                <h2>Password Reset</h2>
+            </div>
+        </div>
+        <div class="row">
+            {{ message }}
+        </div>
+        {% component 'resetPassword' %}
+    </div><!-- /.container -->
+</div>";s:4:"code";N;s:5:"title";s:14:"Reset Password";s:3:"url";s:22:"/reset-password/:code?";s:6:"layout";s:7:"default";s:13:"resetPassword";a:1:{s:9:"paramCode";s:4:"code";}}}
